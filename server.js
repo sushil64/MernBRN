@@ -6,6 +6,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 // UPdated in GIT hub for testing
+// Pushing from MAC at 3.00am 
 // Data sending through -> JSON use express.json
 //                      -> Url - Encoded use express.urlencoded
 //                      -> formData use multer
