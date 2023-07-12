@@ -5,7 +5,7 @@ const cors = require("cors");
 const app = express();
 app.use(cors());
 app.use(express.json());
-
+// UPdated in GIT hub for testing
 // Data sending through -> JSON use express.json
 //                      -> Url - Encoded use express.urlencoded
 //                      -> formData use multer
